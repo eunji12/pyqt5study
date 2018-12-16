@@ -2,7 +2,7 @@
 ``` memo
 2018.12.13 
 ```
-(pyQt5 tutorial)[[PyQt5 tutorial 2018: Create a GUI with Python and Qt](https://build-system.fman.io/pyqt5-tutorial]
+(pyQt5 tutorial)[PyQt5 tutorial 2018: Create a GUI with Python and Qt](https://build-system.fman.io/pyqt5-tutorial]
 
 ```shell
   535  conda create -n qtstudy2 python=3.5
