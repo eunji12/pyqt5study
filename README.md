@@ -1,6 +1,7 @@
 # PyQt5 시작하기
 ``` memo
-2018.12.16
+2018.12.16 ~
+매일 조금씩 하는 pyqt5
 ```
 [PyQt5 tutorial 2018: Create a GUI with Python and Qt](https://build-system.fman.io/pyqt5-tutorial)
 
