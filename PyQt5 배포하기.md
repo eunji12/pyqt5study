@@ -6,7 +6,7 @@
 ```
 
 [pyQt5 tutorial]([PyQt5 tutorial 2018: Create a GUI with Python and Qt](https://build-system.fman.io/pyqt5-tutorial))
-
+[fbs-tutorial](https://github.com/mherrmann/fbs-tutorial)
 - 간단한 위젯을 하나 띄운 후 이 앱을 아무대서나 열 수 있도록 실행 파일로 만든다
 ``` shell
 1 pip install fbs PyInstaller==3.4
